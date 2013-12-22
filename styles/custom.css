@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.ui-footer h4.ui-title {
+	font-size: 11px;
+	margin: .6em 0;
+}
+h3 {
+	margin-bottom: 0px;
+}
+h3 + p {
+	margin-top: 0;	
+}
+.ui-btn-active {
+	background-image:-moz-linear-gradient(top, #FADB4F, #F90);
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #FADB4F), color-stop(1, #F90));
+	-msfilter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#FF9900', EndColorStr='#FADB4F')";
+}
+#s07_history div #sejarah {
+	font-size: 14px;
+}
+#profil_so7 div p {
+	text-align: justify;
+}
+#profil_so7 div p {
+	font-size: 12px;
+}
+<style type="text/css"> 
+    table { width:100%; }
+    table caption { text-align:left;  }
+    table thead th { text-align:left; border-bottom-width:1px; border-top-width:1px; }
+    table th, td {
+	text-align: left;
+	padding: 6px;
+	font-size: 12px;
+} 
+</style>
